@@ -59,3 +59,5 @@ The provided Python script `locustfile.py` contains a Locust user class named `M
 ## Customization
 
 Feel free to customize the load test script according to your specific requirements. You can adjust the `gen_kwargs` to change the text generation behavior or modify the `prompt` to test different types of inputs.
+
+Happy Load Testing!
